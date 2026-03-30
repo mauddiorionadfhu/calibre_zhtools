@@ -1,6 +1,5 @@
 
-[插件](NoTrans.zip)
-脚本
+# 脚本
 - `Calibre中文目录修复工具.py`修改已有的数据库中的中文路径名称
 - `remove_tags.py`去除除指定数据库中元素外的所有标签，标签清洗
 - `删除Calibre库中的所有空白文件夹.py`删除各种原因导致的Calibre中的错误的，空白的文件夹
@@ -8,13 +7,11 @@
 ## 准备工作
 
 1. 需要去GitHub下载一个文件，地址是：https://github.com/Cirn09/calibre-do-not-translate-my-path。名字很有意思，calibre不要翻译我的路径...
-![[assets/calibre/image.png]]
 
 2. 找到Releases，最新的版本是7.2，上周刚更新的。
 
 
 3. 找到对应的版本下载好，解压出来。
-![[assets/calibre/image-1.png]]
 
 文件说明：
 - backend.zip：只实现了路径不翻译。
